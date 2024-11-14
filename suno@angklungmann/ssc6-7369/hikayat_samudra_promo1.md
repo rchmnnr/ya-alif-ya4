@@ -10,7 +10,8 @@ Epic story, from ~20 years ago.
 
 Commemorating The 2004 Indian Ocean Megathrust-Earthquake & Tsunami.
 
-Let's break down the analysis of the song into the four parts:
+Let's break down the analysis of the song into the four parts: 
+[jump to Part4 and Part2 here](./hikayat_samudra_promo2.md)
 
 ### Part 1: Arabic Section with cross-cultural reference to Japan
 - **Veranda of Mecca is Aceh Identity** so the Arabic language holds significant cultural & spiritual value. 
