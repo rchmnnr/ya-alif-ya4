@@ -8,7 +8,7 @@ Epic story, from ~20 years ago.
 
 Commemorating The 2004 Indian Ocean Megathrust-Earthquake & Tsunami.
 
-Read [part1 and part3 here](./hikayat_samudra_promo1.md)
+Read [Part1 and Part3 here](./hikayat_samudra_promo1.md)
 Now, continuing break down analysis of the song's section: 
 ### Part4: Peak Emotional Bridge Section
 
@@ -23,7 +23,7 @@ The bridge section repeated two times in the song, each with slightly different 
 - **Manusia jengah, berseteru. Gencatan! Tabah menangisi, pemakaman.** (People are fed up with shame, infighting. {now, it's time to} Ceasefire! Perseverance while crying, at the funeral.)
     - This tell about the urge of locals to reach ceasefire for their prolonged infighting, thank's to "kalbu" conscience mentioned before. Forget all difference between us, it's time to brave the heart (**preserverance**, "tabah" borrowed term from Arab concept) holding back tears, mourn for >200k brothers around the world. For the curious: you may explore: _doi:10.1007/s11069-007-9193-_
 
-### Part1: Encrypted Verse 
+### Part2: Encrypted Verse 
 This section simply served as time & place of the actual events:
 - **Pulo Andalas**, nickname for Sumatra, with Pulo is Acehnese for "island" (slighty different with formal Bahasa Indonesia: "pulau"). 
 - **Purnama**, full-moon, this is the marker for timestamp encryption. Moon only appear at night, the actual event began at: 26 Dec 2004, 7:58 a.m. WIB (UTC+7)
