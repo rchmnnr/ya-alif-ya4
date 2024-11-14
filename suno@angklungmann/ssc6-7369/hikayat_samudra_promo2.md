@@ -1,6 +1,6 @@
 2nd promotion:  
 Here's the potato 🍠 to eat in your reading journey.
-###### Hikayat Samudra [SSC6, Indonesia] 
+### Hikayat Samudra [SSC6, Indonesia] 
 (roughly translate to "Ancient Tales of The Ocean")
 
 This song tells a story.  
